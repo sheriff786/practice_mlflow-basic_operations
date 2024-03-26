@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tigger/mlops/Cancer%20detection/mlruns/0/7b5066be86704415af7c1b2e5d2cb5ed/artifacts
+end_time: 1711472198567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b5066be86704415af7c1b2e5d2cb5ed
+run_name: stylish-dove-193
+run_uuid: 7b5066be86704415af7c1b2e5d2cb5ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711472192160
+status: 3
+tags: []
+user_id: tigger

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tigger/mlops/Cancer%20detection/mlruns/0/7501bcb7912741a4a09bc113d900c294/artifacts
+end_time: 1711471715829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7501bcb7912741a4a09bc113d900c294
+run_name: traveling-cat-737
+run_uuid: 7501bcb7912741a4a09bc113d900c294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711471712161
+status: 3
+tags: []
+user_id: tigger
